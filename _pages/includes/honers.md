@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
 
-🤔 For my PhD study,  my primary focus is on <font color="red">human-centered visual privacy protection</font>. 
+🤔 For my PhD study, my primary focus is on <font color="blue">Honorable Mention Award</font>. 
 
 
 <font color="blue">Honorable Mention Award</font>. in ACM MM, 2024
