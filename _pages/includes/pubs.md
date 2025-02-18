@@ -122,7 +122,7 @@ Accepted.
 <div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2024 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://arxiv.org/abs/2307.00481) \\
+[Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
 <span class="conf">[2024 TBIOM]</span>, \[[code](https://github.com/ethz-spylab/agentdojo)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
 
