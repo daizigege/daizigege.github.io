@@ -123,7 +123,7 @@ Accepted.
 <div class='paper-box-text' markdown="1">
 
 [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
-<span class="conf">[2024 TBIOM]</span>, \[[code](https://github.com/ethz-spylab/agentdojo)\] \\
+<span class="conf">[2024 TBIOM]</span>, \[[code](https://github.com/daizigege/Identity_hider)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
 
 - The paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
