@@ -85,6 +85,23 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 Accepted.
 </blockquote>
 
+
+<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
+<span class="conf">[2025 TBIOM]</span>, \[[code](https://github.com/daizigege/Identity_hider)\] \\
+<span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
+
+- The paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box' ><div class='paper-box-image'><div><div class="badge">  2025 TIFS  </div><img src='images/2025TIFS.png' alt="sym"  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +118,7 @@ Accepted.
 
 
 
-<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2024 MM</div><img src='images/2024MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2024 ACM MM</div><img src='images/2024MM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704) \\
@@ -119,17 +136,7 @@ Accepted.
 
 
 
-<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2024 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
-<span class="conf">[2024 TBIOM]</span>, \[[code](https://github.com/daizigege/Identity_hider)\] \\
-<span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
-
-- The paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
-
-</div>
-</div>
 
 
 
