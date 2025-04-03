@@ -9,7 +9,7 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2025.04</strong>My Master's degree thesis got the excellent thesis award (NUAA).</li>
+
 
 
     
