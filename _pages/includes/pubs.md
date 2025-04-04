@@ -82,7 +82,7 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 
 
 <blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
-Accepted.
+First author.
 </blockquote>
 
 
@@ -152,6 +152,13 @@ Accepted.
 from the perspective of information security properties, including privacy, controllability, authenticity, and compliance.
 </div>
 </div>
+
+
+<blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
+Corresponding author.
+</blockquote>
+Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations[J]. IEEE Transactions on Dependable and Secure Computing, 2025. (CCF A,  SCI-Q1 TOP)
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
