@@ -6,8 +6,7 @@
 
 
 # 💬 Services
-- Journal Reviewer: 
-    - IEEE Transactions on Knowledge and Data Engineering
+- Journal Reviewer: TKDE，TDSC
 - Conference Reviewer: MM, ICLR, KDD
 
 
