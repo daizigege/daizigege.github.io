@@ -147,7 +147,7 @@ from the perspective of information security properties, including privacy, cont
 Corresponding author.
 </blockquote>
 - Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations[J]. IEEE Transactions on Dependable and Secure Computing, 2025. (CCF A,  SCI-Q1 TOP)
-- Yiyi Xie, Yuqian Zhou<span class="equal">*</span>, <span class="me">Tao Wang<span class="equal">*</span></span>，Wenying Wen, Shuang Yi, and Yushu Zhang. Reversible Gender Privacy Enhancement via Adversarial Perturbations[J].Neural Networks, 2023. （CCF B, SCI-Q1 TOP）
+- Yiyi Xie, Yuqian Zhou<span class="equal">*</span>, <span class="me">Tao Wang<span class="equal">*</span></span>，Wenying Wen, Shuang Yi, and Yushu Zhang. Reversible Gender Privacy Enhancement via Adversarial Perturbations[J].Neural Networks, 2024. （CCF B, SCI-Q1 TOP）
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.png' alt="sym" width="100%"></div></div>
