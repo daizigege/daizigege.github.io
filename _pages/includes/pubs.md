@@ -79,7 +79,7 @@ Accepted
 <div class='paper-box-text' markdown="1">
 
 [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) \\
-<span class="conf">[2025 TDSC]</span>, CCF A,  SCI-Q1 TOP\\
+<span class="conf">[2025 TDSC]</span>, CCF A,  SCI-Q1 TOP
 
 Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng
 - This paper proposes a user-specific universal mask for face privacy, which can map all face images of the same user to a pre-defined virtual identity.
