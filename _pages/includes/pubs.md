@@ -96,7 +96,7 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
 <span class="conf">[2025 TBIOM]</span>, \[[code](https://github.com/daizigege/Identity_hider)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. 
-- The paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
+- This paper proposes an identity hider, which can prevents humans from observing the identity but allows machines to extract the identity.
 </div>
 </div>
 
@@ -111,7 +111,7 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 <span class="conf">[2025 TIFS]</span>, CCF A,  SCI-Q1 TOP, \[[code](https://github.com/daizigege/AIDPro)\] \\
 <span class="me">Tao Wang</span>, Wenying Weng<span class="equal">*</span>, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
-- The paper proposes AIDPro, which can embed  messages in a robust way for image authentication  while  altering identity for privacy protection.  
+- This paper proposes AIDPro, which can embed  messages in a robust way for image authentication  while  altering identity for privacy protection.  
 
 </div>
 </div>
@@ -127,7 +127,7 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 <span class="conf">[2024 ACM MM]</span>, CCF A, \[[code](https://github.com/daizigege/CanFG)\] \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Xiangli Xiao, Lin Yuan, Zhihua Xia, Jian Weng  
 
-- The paper proposes CanFG, which can embed  virtual identity  for supporting cancelable biometrics  while  removing physical identity for privacy protection.
+- This paper proposes CanFG, which can embed  virtual identity  for supporting cancelable biometrics  while  removing physical identity for privacy protection.
 
 </div>
 </div>
