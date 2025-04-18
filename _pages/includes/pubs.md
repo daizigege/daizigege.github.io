@@ -79,7 +79,7 @@ Accepted
 <div class='paper-box-text' markdown="1">
 
 [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) \\
-<span class="conf">[2025 TDSC]</span>, CCF A,  SCI-Q1 TOP
+<span class="conf">[2025 TDSC]</span>, CCF A
 
 Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng
 - This paper proposes a user-specific universal mask for face privacy, which can map all face images of the same user to a pre-defined virtual identity.
@@ -108,7 +108,7 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 <div class='paper-box-text' markdown="1">
 
 [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889) \\
-<span class="conf">[2025 TIFS]</span>, CCF A,  SCI-Q1 TOP, \[[code](https://github.com/daizigege/AIDPro)\] \\
+<span class="conf">[2025 TIFS]</span>, CCF A, \[[code](https://github.com/daizigege/AIDPro)\]   \[[TL;DR]([https://github.com/daizigege/AIDPro](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg))\]           \\
 <span class="me">Tao Wang</span>, Wenying Weng<span class="equal">*</span>, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang
 
 - This paper proposes AIDPro, which can embed  messages in a robust way for image authentication  while  altering identity for privacy protection.  
@@ -147,7 +147,7 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 <div class='paper-box-text' markdown="1">
 
 [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626) \\
-<span class="conf">[2024 CSUR]</span>, IF: 23.8, SCI-Q1 TOP,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\] 
+<span class="conf">[2024 CSUR]</span>, IF: 23.8,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\] 
 \\
 <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng
 -  This survey reviews the security and privacy on generative data in AIGC, particularly for the first time analyzing them
