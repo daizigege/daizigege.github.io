@@ -6,7 +6,7 @@
 
 
 # 💬 Services
-- Journal Reviewer: TKDE，TDSC
+- Journal Reviewer: TKDE, TDSC, ESWA
 - Conference Reviewer: MM, ICLR, KDD
 
 
