@@ -7,7 +7,7 @@
 
 # 💬 Services
 - Journal Reviewer: TKDE, TDSC, ESWA
-- Conference Reviewer: MM, ICLR, SIGKDD
+- Conference Reviewer:ACM MM, ICLR, SIGKDD
 
 
 <!-- # 💻 Internships
