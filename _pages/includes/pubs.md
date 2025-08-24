@@ -153,7 +153,7 @@ from the perspective of information security properties, including privacy, cont
 Core Author
 </blockquote>
 
-- <span class="conf">[2025 TPAMI]</span> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Junhao Ji, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen and Yong Xiang. CCF A, IF: 18.6, JCR: Q1
+- <span class="conf">[2025 TPAMI]</span> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Junhao Ji, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. CCF A, IF: 18.6, JCR: Q1
 
 
 - <span class="conf">[2025 TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>, Zhongyun Hua, and Jian Weng. CCF A, IF: 7.5, JCR: Q1
