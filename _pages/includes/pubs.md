@@ -5,14 +5,14 @@
 
 <style>
 .paper-box {
-    width: 80%;
-    max-width: 600px;
-    margin: 0 auto;
-    /* 你还可以添加其他样式来美化 */
-    border: 1px solid #ccc;
-    padding: 15px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  /* Width is not explicitly set, so it will take up 100% of its parent container */
+  /* Reduces vertical space */
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* Sets a maximum height to ensure all boxes are a similar size */
+  max-height: 250px; 
+  overflow: hidden;
 }
 </style>
 
