@@ -70,23 +70,9 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 
 <!-- Accepted -->
 
-
 <blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
-Accepted
+First Author
 </blockquote>
-
-<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TDSC</div><img src='images/2025TDSC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) \\
-<span class="conf">[2025 TDSC]</span>, CCF A, IF: 7.5, JCR: Q1
-
-Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng
-- This paper proposes a user-specific universal mask for face privacy, which can map all face images of the same user to a pre-defined virtual identity.
-
-</div>
-</div>
-
 
 
 
@@ -154,6 +140,15 @@ Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span><
 from the perspective of information security properties, including privacy, controllability, authenticity, and compliance.
 </div>
 </div>
+
+
+
+
+<blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
+Core Author
+</blockquote>
+
+[Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng. <span class="conf">[2025 TDSC]</span>, CCF A, IF: 7.5, JCR: Q1
 
 
 
