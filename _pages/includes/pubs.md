@@ -158,7 +158,7 @@ Core Author
 
 - <span class="conf">[2025 TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>, Zhongyun Hua, and Jian Weng. CCF A, IF: 7.5, JCR: Q1
 
-- - <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371), Zixuan Yang, Yushu Zhang,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+- <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371), Zixuan Yang, Yushu Zhang,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
 
 
