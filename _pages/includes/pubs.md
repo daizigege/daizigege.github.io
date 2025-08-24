@@ -148,7 +148,7 @@ from the perspective of information security properties, including privacy, cont
 Core Author
 </blockquote>
 
-[Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang<span class="equal">*</span></span>, Zhongyun Hua, and Jian Weng. <span class="conf">[2025 TDSC]</span>, CCF A, IF: 7.5, JCR: Q1
+- <span class="conf">[2025 TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355) Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>, Zhongyun Hua, and Jian Weng. CCF A, IF: 7.5, JCR: Q1
 
 
 
