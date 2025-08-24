@@ -88,9 +88,17 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 First Author
 </blockquote>
 
+- <span class="conf">[2025 TBIOM]</span> [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  Zhongyun Hua. IF: 5, JCR: Q2, \[[code](https://github.com/daizigege/Identity_hider)\] \\
 
 
-<div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
+- <span class="conf">[2025 TIFS]</span> [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889). <span class="me">Tao Wang</span>, Wenying Weng<span class="equal">*</span>, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, Yuming Fang. CCF A, IF: 8, JCR: Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
+
+- <span class="conf">[2024 ACM MM]</span>[Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Xiangli Xiao, Lin Yuan, Zhihua Xia, Jian Weng  . CCF A, \[[code](https://github.com/daizigege/CanFG)\]
+
+- <span class="conf">[2024 ACM CSUR]</span>[Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.  IF: 28, JCR: Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\] 
+
+
+<!-- <div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362) \\
@@ -144,7 +152,7 @@ First Author
 -  This survey reviews the security and privacy on generative data in AIGC, particularly for the first time analyzing them
 from the perspective of information security properties, including privacy, controllability, authenticity, and compliance.
 </div>
-</div>
+</div>-->
 
 
 
