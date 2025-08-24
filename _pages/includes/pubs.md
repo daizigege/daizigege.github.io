@@ -170,7 +170,7 @@ Core Author
 
 - <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371). Zixuan Yang, Yushu Zhang<span class="equal">*</span>,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
-- - <span class="conf">[2024 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).
+- <span class="conf">[2024 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).
 Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao<span class="equal">*</span>, Wenying Wen, and Youwen Zhu.  CCF A, JCR: Q1
 
 
