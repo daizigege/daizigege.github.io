@@ -35,7 +35,7 @@
 </style>
 <style>
   .me {
-    color: blue;  
+    color: black;  
     font-weight: bold;  
   }
 </style>
