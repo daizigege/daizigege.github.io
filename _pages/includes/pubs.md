@@ -4,6 +4,20 @@
 
 
 <style>
+.paper-box {
+    width: 90%;
+    max-width: 800px;
+    margin: 0 auto;
+    /* 你还可以添加其他样式来美化 */
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+</style>
+
+
+<style>
 .box {
   display: inline-block;
   background-color: lightgray;
