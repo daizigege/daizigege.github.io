@@ -161,12 +161,12 @@ from the perspective of information security properties, including privacy, cont
 Core Author
 </blockquote>
 
-- <span class="conf">[2025 IEEE TPAMI]</span> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Junhao Ji<span class="equal">*</span>, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. CCF A, IF: 18.6, JCR: Q1
+- <span class="conf">[2025 IEEE TPAMI]</span> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355). Yushu Zhang, Junhao Ji<span class="equal">*</span>, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. CCF A, IF: 18.6, JCR: Q1
 
 
-- <span class="conf">[2025 IEEE TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355), Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span><span class="equal">*</span>, Zhongyun Hua, and Jian Weng. CCF A, IF: 7.5, JCR: Q1
+- <span class="conf">[2025 IEEE TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355). Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span><span class="equal">*</span>, Zhongyun Hua, and Jian Weng. CCF A, IF: 7.5, JCR: Q1
 
-- <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371), Zixuan Yang, Yushu Zhang<span class="equal">*</span>,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+- <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371). Zixuan Yang, Yushu Zhang<span class="equal">*</span>,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
 
 
