@@ -107,7 +107,7 @@ ACM Computing Surveys, IF 28, JCR Q1,  \[[reading list](https://github.com/Zoky-
 
 6. <span class="conf">[2023 IEEE SPL]</span> [Identifiable Face Privacy Protection via Virtual Identity Transformation](https://ieeexplore.ieee.org/document/10163490).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Ruoyu Zhao, Wenying Wen,  and Rushi Lan.       
-ACM Computing Surveys, IF 28, JCR Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
+IEEE Signal Processing Letters, JCR Q2
 
 <!-- <div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -187,7 +187,7 @@ ACM International Conference on Multimedia, CCF A, Honourable Mention Award, \[[
 
 4. <span class="conf">[2023 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).    
 Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.    
-IEEE Signal Processing Letters, JCR Q2
+IEEE Transactions on Information Forensics and Security, CCF A, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]   
 
 
 
