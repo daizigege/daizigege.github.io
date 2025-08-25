@@ -163,9 +163,9 @@ from the perspective of information security properties, including privacy, cont
 Core Author
 </blockquote>
 
-- <span class="conf">[2025 IEEE TPAMI]</span> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355).
-  Yushu Zhang, Junhao Ji<span class="equal">*</span>, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.
-  IEEE Transactions on Pattern Analysis and Machine Intelligence, CCF A, JCR: Q1
+1. <span class="conf"> [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355).  
+Yushu Zhang, Junhao Ji\*, **Tao Wang**, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, CCF A, JCR Q1
 
 
 - <span class="conf">[2025 IEEE TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355). Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span><span class="equal">*</span>, Zhongyun Hua, and Jian Weng. CCF A, JCR: Q1
