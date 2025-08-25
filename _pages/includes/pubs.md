@@ -105,7 +105,9 @@ IEEE Transactions on Information Forensics and Security, CCF A, JCR Q1,  \[[code
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.       
 ACM Computing Surveys, IF 28, JCR Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
-
+6. <span class="conf">[2023 IEEE SPL]</span> [Identifiable Face Privacy Protection via Virtual Identity Transformation](https://ieeexplore.ieee.org/document/10163490).       
+<span class="me">Tao Wang</span>, Yushu Zhang\*, Ruoyu Zhao, Wenying Wen,  and Rushi Lan.       
+ACM Computing Surveys, IF 28, JCR Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
 <!-- <div class='paper-box' ><div class='paper-box-image'><div><div class="badge">2025 TBIOM</div><img src='images/2024TBIOM.png' alt="sym"  width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
