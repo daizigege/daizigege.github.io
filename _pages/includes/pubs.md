@@ -88,14 +88,21 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 First Author
 </blockquote>
 
-- <span class="conf">[2025 IEEE TBIOM]</span> [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua. IF: 5, JCR: Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
+1. <span class="conf">[2025 IEEE TBIOM]</span> [Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://ieeexplore.ieee.org/document/10646362).   **Tao Wang**, Yushu Zhang\*, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua.
+IEEE Transactions on Biometrics, Behavior, and Identity Science,  JCR: Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
 
 
-- <span class="conf">[2025 IEEE TIFS]</span> [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889). <span class="me">Tao Wang</span>, Wenying Weng<span class="equal">*</span>, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. CCF A, IF: 8, JCR: Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
+2. <span class="conf">[2025 IEEE TIFS]</span> [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889).
+**Tao Wang**, Wenying Weng/*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang.
+IEEE Transactions on Information Forensics and Security, CCF A, JCR: Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
 
-- <span class="conf">[2024 ACM MM]</span> [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng. CCF A, \[[code](https://github.com/daizigege/CanFG)\]
+3. <span class="conf">[2024 ACM MM]</span> [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704).
+**Tao Wang**, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng.
+ ACM International Conference on Multimedia, CCF A, \[[code](https://github.com/daizigege/CanFG)\]
 
-- <span class="conf">[2024 ACM CSUR]</span> [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626). <span class="me">Tao Wang</span>, Yushu Zhang<span class="equal">*</span>, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.  IF: 28, JCR: Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
+4. <span class="conf">[2024 ACM CSUR]</span> [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626).
+**Tao Wang**, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.
+ACM Computing Surveys, IF: 28, JCR: Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
 
 
