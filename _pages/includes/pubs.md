@@ -187,7 +187,7 @@ ACM International Conference on Multimedia, CCF A, Honourable Mention Award, \[[
 
 4. <span class="conf">[2023 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).    
 Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.    
-IEEE Transactions on Information Forensics and Security, CCF A, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+IEEE Signal Processing Letters, JCR Q2
 
 
 
