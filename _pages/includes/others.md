@@ -8,7 +8,7 @@
 
 # 💬 Services
 - Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Dependable and Secure Computing, Knowledge-Based Systems, Expert Systems with Applications,  Information Sciences
-- Conference Reviewer:ACM MM, ICLR, SIGKDD
+- Conference Reviewer: ICLR, SIGKDD, ACM MM
 
 
 <!-- # 💻 Internships
