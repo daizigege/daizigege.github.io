@@ -1,7 +1,7 @@
 
 # 🧐 About Me
 
-I am a  PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, under the supervision of Prof. [Yushu Zhang](https://yushuzhang.cn/).
+I am a  PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).
 
 
 Email:  wangtao21@nuaa.edu.cn; wangtao_dzgg@163.com; taow1776@gmail.com
