@@ -12,7 +12,7 @@
         <li><strong>2025.08.22</strong>: 🎉 Our paper on face differential privacy is accepted by TPAMI </li>
         <li><strong>2025.05.27</strong>: 🎉 I am honored to be  awarded the CSC scholarship</li>
         <li><strong>2025.04.29</strong>: 🎉 I am honored to be supported by the Postgraduate Research & Practice Innovation Program of Jiangsu Province </li>
-        <li><strong>2025.04.05</strong>: 🎉 Our paper on tailor-made  protection  is accepted by TDSC </li>
+        <li><strong>2025.04.05</strong>: 🎉 Our paper on face tailor-made  protection  is accepted by TDSC </li>
         <li><strong>2025.04.04</strong>: 🎉 My Master's degree thesis got the excellent thesis award (NUAA) </li>
      <!-- <li><strong>2024.09</strong>: 🎉 <a href="https://arxiv.org/abs/2409.19798">Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data</a> is accepted by SaTML 2025 </li>-->
      <!-- <li><strong>2024.09</strong>: 🎉 <a href="https://arxiv.org/abs/2406.13352">AgentDojo</a> is accepted by NeurIPS 2024 (dataset and benchmark track).  <a href="https://agentdojo.spylab.ai/">  Benchmark. </a>  </li>-->
