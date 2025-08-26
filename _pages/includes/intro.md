@@ -10,6 +10,10 @@ Before that, I received my Bachelor's degree at Hainan University in July 2020. 
 <!-- Previously, I interned at Sony AI for half a year, focusing on AI security and model compression. Before that, I also interned at Tencent Youtu Lab for one year, exploring federated learning and adversarial attacks. -->
 
 ### **Research Interests**: 
+- Visual Privacy 
+- Information Theoretical Privacy
+- Adversarial Perturbation
+- AIGC 
 <!--  I am mainly interested in data-centric AI or data-driven machine learning, including data privacy, data security, data efficiency, and data-related applications. My research investigates how to elevate data-centric approaches to improving the performance of machine learning models. Previously, I focused on the following research topics:
 - Data Efficiency: Data-Free Knowledge Distillation, Dataset Condensation
 - Data Security: Adversarial Examples, Model Inversion
