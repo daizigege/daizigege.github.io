@@ -95,15 +95,15 @@ IEEE Transactions on Biometrics, Behavior, and Identity Science, JCR Q2, \[[code
 
 2. <span class="conf">[2025 IEEE TIFS]</span> [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889).        
 <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang.          
-IEEE Transactions on Information Forensics and Security, CCF A, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
+IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
 
 4. <span class="conf">[2024 ACM MM]</span> [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng.        
- ACM International Conference on Multimedia, CCF A, \[[code](https://github.com/daizigege/CanFG)\]
+ ACM International Conference on Multimedia, <span class="me">CCF A</span>, \[[code](https://github.com/daizigege/CanFG)\]
 
 5. <span class="conf">[2024 ACM CSUR]</span> [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.       
-ACM Computing Surveys, IF 28, JCR Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
+ACM Computing Surveys, <span class="me">IF 28</span>, JCR Q1,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
 6. <span class="conf">[2023 IEEE SPL]</span> [Identifiable Face Privacy Protection via Virtual Identity Transformation](https://ieeexplore.ieee.org/document/10163490).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Ruoyu Zhao, Wenying Wen,  and Rushi Lan.       
@@ -174,20 +174,20 @@ Core Author
 
 1. <span class="conf">[2025 IEEE TPAMI]</span>  [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/10965355).  
 Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, CCF A, JCR Q1
+IEEE Transactions on Pattern Analysis and Machine Intelligence, <span class="me">CCF A</span>, JCR Q1
 
 
 2. <span class="conf">[2025 IEEE TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355).    
 Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>\*, Zhongyun Hua, and Jian Weng.    
-IEEE Transactions on Dependable and Secure Computing, CCF A, JCR Q1
+IEEE Transactions on Dependable and Secure Computing, <span class="me">CCF A</span>, JCR Q1
 
 3. <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371).    
 Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.    
-ACM International Conference on Multimedia, CCF A, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+ACM International Conference on Multimedia, <span class="me">CCF A</span>, Honourable Mention Award, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
 4. <span class="conf">[2023 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).    
 Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.    
-IEEE Transactions on Information Forensics and Security, CCF A, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]   
+IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]   
 
 
 
