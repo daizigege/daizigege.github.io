@@ -84,7 +84,7 @@ datasets, existing evaluations thus tell us nothing about membership leakage of 
 
 <!-- Accepted -->
 
-<blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
+<blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 First Author
 </blockquote>
 
@@ -166,7 +166,7 @@ from the perspective of information security properties, including privacy, cont
 
 
 
-<blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
+<blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 Core Author
 </blockquote>
 
