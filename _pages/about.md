@@ -23,9 +23,4 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 
-<footer> 
-  <hr>
-{% <p> Template <a href="https://github.com/zj-jayzhang/zj-jayzhang.github.io">   webpage.</a></p>%}
-
-</footer>
 
