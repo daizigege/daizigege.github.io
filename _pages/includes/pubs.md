@@ -107,7 +107,7 @@ IEEE Transactions on Information Forensics and Security, <span class="me">CCF A<
 
 5. <span class="conf">[2024 ACM CSUR]</span> [Security and Privacy on Generative Data in AIGC: A Survey](https://dl.acm.org/doi/10.1145/3703626).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng.       
-ACM Computing Surveys, <span class="me">IF 28</span>, JCR Q1, <span class="me"> &#128293; ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
+ACM Computing Surveys, <span class="me">IF 28</span>, JCR Q1, <span class="me"> 🏆 ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
 
 
