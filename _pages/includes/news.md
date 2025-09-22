@@ -9,6 +9,7 @@
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.09.22</strong>: 🎉 Our survey on AIGC  is recognized as an ESI Highly Cited Paper </li>
         <li><strong>2025.08.22</strong>: 🎉 Our paper on face differential privacy is accepted by TPAMI </li>
         <li><strong>2025.05.27</strong>: 🎉 I am honored to be  awarded the CSC scholarship</li>
         <li><strong>2025.04.29</strong>: 🎉 I am honored to be supported by the Postgraduate Research & Practice Innovation Program of Jiangsu Province </li>
