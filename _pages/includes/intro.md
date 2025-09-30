@@ -1,7 +1,7 @@
 
 # 🧐 About Me
 
-I am a  PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).
+I am a  PhD student majoring in Cyberspace Security at Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).  I am currently studying in Italy as a visiting Ph.D. student under the supervision of Prof. [Pierangela Samarati ](https://samarati.di.unimi.it/cv) (IEEE/ACM Fellow, the creator of K-anonymity).
 
 
 Email:  wangtao21@nuaa.edu.cn; wangtao_dzgg@163.com; taow1776@gmail.com
