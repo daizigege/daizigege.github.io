@@ -1,7 +1,7 @@
 
 # 🧐 About Me
 
-I am a  PhD student from Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).  I am currently studying at the University of Milan as a visiting Ph.D. student, supervised by Prof. [Pierangela Samarati ](https://samarati.di.unimi.it/cv) (IEEE/ACM Fellow, the  originator of K-anonymity).
+I am a  PhD from Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).  I am currently studying at the University of Milan as a visiting scholar, supervised by Prof. [Pierangela Samarati ](https://samarati.di.unimi.it/cv) (IEEE/ACM Fellow, the  originator of K-anonymity).
 
 
 Email:  wangtao21@nuaa.edu.cn; wangtao_dzgg@163.com; taow1776@gmail.com
