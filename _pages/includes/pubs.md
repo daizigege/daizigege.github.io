@@ -99,7 +99,7 @@ IEEE Transactions on Biometrics, Behavior, and Identity Science, JCR Q2, \[[code
 
 3. <span class="conf">[2025 IEEE TIFS]</span> [Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication](https://ieeexplore.ieee.org/document/10884889).        
 <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang.          
-IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\] 
+IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
 
 4. <span class="conf">[2024 ACM MM]</span> [Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition](https://dl.acm.org/doi/abs/10.1145/3664647.3680704).       
 <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng.        
