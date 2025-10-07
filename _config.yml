@@ -2,7 +2,7 @@
 
 # Site Settings
 title                    : "Tao Wang"
-description              : "PhD at NUAA. "
+description              : "PhD at NUAA for Visual Privacy. "
 repository               : "daizigege/daizigege.github.io"
 google_scholar_stats_use_cdn : True
 
@@ -16,7 +16,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Tao Wang (for Visual Privacy)"
+  name             : "Tao Wang"
   avatar           : "images/wangtao-x.jpg"
   bio              : #"ETH Zurich"
   location         : 
