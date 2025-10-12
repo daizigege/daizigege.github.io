@@ -7,7 +7,7 @@
 
 
 # 💬 Services
-- Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Dependable and Secure Computing, Knowledge-Based Systems, Expert Systems with Applications,  Information Sciences
+- Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Dependable and Secure Computing, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, Expert Systems with Applications,  Information Sciences
 - Conference Reviewer: ICLR (2025,2026), SIGKDD (2025,2026), ACM MM(2024,2025)
 
 
