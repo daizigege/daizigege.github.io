@@ -1,4 +1,4 @@
-# 🔥 News
+# News
 
 <style>
   .scrollable {
