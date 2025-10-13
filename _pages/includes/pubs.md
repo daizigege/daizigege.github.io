@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications 
+# Selected Publications 
 ( <span class="equal">*</span> indicates the corresponding author. Full list of  [<i class="fas fa-fw fa-graduation-cap"></i>publications](https://scholar.google.com.hk/citations?user=6FfG_OUAAAAJ&hl=zh-CN))
 
 
