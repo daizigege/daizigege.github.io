@@ -52,38 +52,6 @@
 
 
 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/attack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Gradient Masking All-at-Once: Ensemble Everything Everywhere Is Not Robust](https://arxiv.org/abs/2411.14834) \\
-<span class="me">Jie Zhang</span>, Christian Schlarmann, Kristina Nikolić, Nicholas Carlini, Francesco Croce, Matthias Hein, Florian Tramèr. \[[code](https://github.com/zj-jayzhang/attack_ens)\]
-
-- We looked into "Ensemble Everything Everywhere", an adversarial examples defense that caused some excitement. Yet again, this serves as another example highlighting the importance of **rigorous evaluation**. 
-
-</div>
-</div> -->
-
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/blind_mia.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection](https://arxiv.org/abs/2307.00481) \\
-Debeshee Das, <span class="me">Jie Zhang</span>, Florian Tramèr. \[[code](https://github.com/ethz-spylab/Blind-MIA)\]
-
-- Unfortunately, we find that evaluations of MI attacks for foundation models are **flawed**, because
-they sample members and non-members from different distributions. We find 8 flawed MI evaluation
-datasets, existing evaluations thus tell us nothing about membership leakage of a foundation model’s training data.
-
-</div>
-</div>-->
-
-
-
-<!-- Accepted -->
-
 <blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 First Author
 </blockquote>
