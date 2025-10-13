@@ -1,4 +1,4 @@
-# 📂 Projects
+# Projects
 
 - Postgraduate Research & Practice Innovation Program of Jiangsu Province, Friendly Face Privacy Protection Based on AIGC, 2025-2026, PI
 
