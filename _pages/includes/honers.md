@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - CSC Scholarship of High-Level Postgraduate Program, 2025
 - ACM MM Honorable Mention Award, 2024
