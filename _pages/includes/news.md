@@ -9,6 +9,7 @@
 
 <div class="scrollable">
   <ul>
+    <li><strong>2025.11.12</strong>:  I am honored to be  awarded the Puxin Elite scholarship</li>
         <li><strong>2025.10.17</strong>: Seminar "Vision Access Control In Facial Identity Protection" at SPDP Lab and IEBI Lab [<a href="https://daizigege.github.io/pdf/Vision_Access_Control_In_Facial_Identity_Protection.pdf">slides</a>]  </li>
         <li><strong>2025.09.22</strong>:  Our survey on AIGC  security and privacy  is recognized as an ESI Highly Cited Paper </li>
         <li><strong>2025.08.22</strong>:  Our paper on face differential privacy is accepted by TPAMI </li>
