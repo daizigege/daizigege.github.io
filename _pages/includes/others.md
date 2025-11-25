@@ -7,7 +7,7 @@
 
 
 # Services
-- Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering; IEEE Transactions on Dependable and Secure Computing; IEEE Transactions on Circuits and Systems for Video Technology; IEEE Transactions on Biometrics, Behavior, and Identity Science; Knowledge-Based Systems; Engineering Applications of Artificial Intelligence; Expert Systems with Applications;  Information Sciences; Neural Networks
+- Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering; IEEE Transactions on Dependable and Secure Computing; IEEE Transactions on Circuits and Systems for Video Technology; IEEE Transactions on Biometrics, Behavior, and Identity Science; Knowledge-Based Systems; Engineering Applications of Artificial Intelligence; Expert Systems with Applications;  Information Sciences; Neural Networks; International Journal of Information Security; Computers in Biology and Medicine
 - Conference Reviewer: ICLR, SIGKDD, ACM MM
 
 
