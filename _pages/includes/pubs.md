@@ -102,7 +102,7 @@ ACM International Conference on Multimedia, 2024, <span class="me">CCF A</span>,
 
 [4] Yushu Zhang, **Tao Wang**, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.  
 RAPP: Reversible Privacy Preservation for Various Face Attributes.      
-IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, 2023, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+IEEE Transactions on Information Forensics and Security, 2023, <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 
 
