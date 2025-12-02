@@ -48,13 +48,9 @@
 </style>
 
 
-
-
-
-
-<blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
+<!-- <blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 First Author
-</blockquote>
+</blockquote> -->
 
 [1] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Kun Xu, Lin Yuan, Wenying Wen, and Yuming Fang.    
 Make Identity Unextractable yet Perceptible: Synthesis-Based Privacy Protection for Subject Faces in Photos.      
@@ -77,32 +73,35 @@ Security and Privacy on Generative Data in AIGC: A Survey.
 ACM Computing Surveys, 2024, <span class="me">IF 28</span>, JCR Q1, 🏆<span class="me">  ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
 
-
-
-
-
-
-
-
-<blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
-Core Author
-</blockquote>
-
-[1] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
+[6] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
 Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees.    
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, <span class="me">CCF A</span>, JCR Q1
 
-[2] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>, Zhongyun Hua, and Jian Weng.    
+[7] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>, Zhongyun Hua, and Jian Weng.    
 Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations.      
 IEEE Transactions on Dependable and Secure Computing, 2025, <span class="me">CCF A</span>, JCR Q1
 
-[3]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.   
+[8]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.   
 Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils.      
 ACM International Conference on Multimedia, 2024, <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
-[4] Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.  
+[9] Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.  
 RAPP: Reversible Privacy Preservation for Various Face Attributes.      
 IEEE Transactions on Information Forensics and Security, 2023, <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+
+
+
+
+
+
+
+
+
+
+
+<!-- <blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
+Core Author
+</blockquote> -->
 
 
 
