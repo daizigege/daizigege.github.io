@@ -60,9 +60,8 @@ arXiv, 2025, \[[code](https://github.com/daizigege/PerceptFace)\], \[[API](https
 Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection.   
 IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025, JCR Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
 
-[3] <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang.    
-Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication.            
-IEEE Transactions on Information Forensics and Security, 2025, <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
+[3] <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication. IEEE Transactions on Information Forensics and Security, 2025.  
+<span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
 
 [4] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng.    
 Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition.     
