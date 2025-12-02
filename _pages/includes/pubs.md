@@ -88,21 +88,20 @@ ACM Computing Surveys, <span class="me">IF 28</span>, JCR Q1, 🏆<span class="m
 Core Author
 </blockquote>
 
-1. <span class="conf">[2025 IEEE TPAMI]</span>  [Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees](https://ieeexplore.ieee.org/document/11146914).  
-Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
+1. <span class="conf">[2025 IEEE TPAMI]</span>  Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang.  
+Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees.    
 IEEE Transactions on Pattern Analysis and Machine Intelligence, <span class="me">CCF A</span>, JCR Q1
 
-
-2. <span class="conf">[2025 IEEE TDSC]</span> [Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations](https://ieeexplore.ieee.org/document/10965355).    
-Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>\*, Zhongyun Hua, and Jian Weng.    
+2. <span class="conf">[2025 IEEE TDSC]</span> Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang</span>\*, Zhongyun Hua, and Jian Weng.    
+Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations.      
 IEEE Transactions on Dependable and Secure Computing, <span class="me">CCF A</span>, JCR Q1
 
-3. <span class="conf">[2024 ACM MM]</span> [Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils](https://dl.acm.org/doi/abs/10.1145/3664647.3681371).    
-Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.    
+3. <span class="conf">[2024 ACM MM]</span> Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.
+Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils.      
 ACM International Conference on Multimedia, <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
-4. <span class="conf">[2023 IEEE TIFS]</span> [RAPP: Reversible Privacy Preservation for Various Face Attributes](https://ieeexplore.ieee.org/abstract/document/10121472).    
-Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.    
+4. <span class="conf">[2023 IEEE TIFS]</span>  Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu.  
+RAPP: Reversible Privacy Preservation for Various Face Attributes.      
 IEEE Transactions on Information Forensics and Security, <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 
