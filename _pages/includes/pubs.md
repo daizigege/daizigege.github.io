@@ -96,7 +96,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, <span class="me"
 Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations.      
 IEEE Transactions on Dependable and Secure Computing, <span class="me">CCF A</span>, JCR Q1
 
-3. <span class="conf">[2024 ACM MM]</span> Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.
+3. <span class="conf">[2024 ACM MM]</span> Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng.   
 Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils.      
 ACM International Conference on Multimedia, <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
