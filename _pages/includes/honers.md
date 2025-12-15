@@ -1,5 +1,6 @@
 # Honors and Awards
 
+- CAST Young Sci-Tech Talent Cultivation Project (Doctoral Student Special Program), 2025
 - Puxin Elite Scholarship, 2025
 - CSC Scholarship of High-Level Postgraduate Program, 2025
 - ACM MM Honorable Mention Award, 2024
