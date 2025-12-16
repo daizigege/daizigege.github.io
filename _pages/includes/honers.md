@@ -1,4 +1,4 @@
-# Honors and Awards
+# Honors
 
 - CAST Young Sci-Tech Talent Cultivation Project (Doctoral Student Special Program), 2025
 - Puxin Elite Scholarship, 2025
