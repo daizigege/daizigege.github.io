@@ -60,6 +60,7 @@ First Author
 
 [5] <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng. Security and Privacy on Generative Data in AIGC: A Survey. *ACM Comput. Surv.*, 2024, 57(4): 1-34. <span class="me">IF 28</span>, JCR Q1, 🏆<span class="me">  ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
+[6] Wenying Wen, Zhouxin Wu, Yushu Zhang, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1
 
 [6] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1
 
