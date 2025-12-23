@@ -62,13 +62,13 @@ First Author
 
 [6] Wenying Wen, Zhouxin Wu, Yushu Zhang, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1
 
-[6] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1
+[7] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1
 
-[7] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1
+[8] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1
 
-[8]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+[9]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
-[9]  Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+[10]  Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 
 
