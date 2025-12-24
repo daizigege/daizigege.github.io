@@ -17,7 +17,6 @@
         <li><strong>2025.05.27</strong>:  I am honored to be  awarded the CSC scholarship</li>
         <li><strong>2025.04.29</strong>:  I am honored to be supported by the Postgraduate Research & Practice Innovation Program of Jiangsu Province </li>
         <li><strong>2025.04.05</strong>:  Our paper on face tailor-made  protection  is accepted by TDSC </li>
-        <li><strong>2025.04.04</strong>:  My Master's degree thesis got the excellent thesis award of NUAA </li>
   </ul>
 </div>
 
