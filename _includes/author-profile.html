@@ -115,6 +115,12 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="fab fa-fw fa-orcid"></i> ORCID</a></li>
       {% endif %}
+      {% if author.zhihu %}
+        <li><a href="{{ author.orcid }}"><i class="fab fa-fw fa-zhihu"></i> Zhihu</a></li>
+      {% endif %}
+
+
+      
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
@@ -151,9 +157,7 @@
         <a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i></a>
       {% endif %} -->
 
-      {% if author.zhihu %}
-        <li><a href="https://www.zhihu.com/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> Zhihu</a></li>
-      {% endif %}
+
         
       {% if author.xing %}
         <a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i></a>
