@@ -15,5 +15,5 @@ Research Interests: Visual Privacy, Information Theoretical Privacy, Adversarial
   }
 </style>
 
-<span class="imp"> dasdasd  </span>
+<span class="imp"> I welcome opportunities for collaboration. I am expected to complete my Ph.D. in April 2027 and am currently seeking overseas postdoctoral positions.  </span>
 
