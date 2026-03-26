@@ -115,13 +115,19 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="fab fa-fw fa-orcid"></i> ORCID</a></li>
       {% endif %}
-      {% if author.zhihu %}
-        <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu"></i> Zhihu</a></li>
-      {% endif %}
+
 
       {% if author.wechat %}
         <li><i class="fab fa-fw fa-weixin"></i> {{ author.wechat }}</li>
       {% endif %}
+
+      
+      
+      {% if author.zhihu %}
+        <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu"></i> Zhihu</a></li>
+      {% endif %}
+
+
       
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
