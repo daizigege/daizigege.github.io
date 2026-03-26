@@ -43,6 +43,12 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
+
+      {% if author.wechat %}
+        <li><i class="fab fa-fw fa-weixin"></i> {{ author.wechat }}</li>
+      {% endif %}
+
+      
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
@@ -117,9 +123,6 @@
       {% endif %}
 
 
-      {% if author.wechat %}
-        <li><i class="fab fa-fw fa-weixin"></i> {{ author.wechat }}</li>
-      {% endif %}
 
       
       
