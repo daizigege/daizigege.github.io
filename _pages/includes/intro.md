@@ -6,7 +6,8 @@ I am a  PhD at Nanjing University of Aeronautics and Astronautics, supervised by
 
 Email:  wangtao21@nuaa.edu.cn; taow1776@gmail.com.    
 
-Research Interests: Visual Privacy, Information Theoretical Privacy, Adversarial Perturbation, LVLM Privacy
+Research Interests: Visual Privacy, Information-Theoretical Privacy, Adversarial Perturbation, Privacy Reasoning Graphs, Large
+Vision-Language Models
 
 <style>
   .imp{
