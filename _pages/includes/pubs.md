@@ -50,25 +50,25 @@
 First Author
 </blockquote> -->
 
-[arXiv'25] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Kun Xu, Lin Yuan, Wenying Wen, and Yuming Fang. Make Identity Unextractable yet Perceptible: Synthesis-Based Privacy Protection for Subject Faces in Photos. *arXiv*, 2025. \[[code](https://github.com/daizigege/PerceptFace)\], \[[API](https://huggingface.co/spaces/daizigege/PerceptFace)\], \[[TL;DR](https://zhuanlan.zhihu.com/p/1956416753782482926)\]
+[1] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Kun Xu, Lin Yuan, Wenying Wen, and Yuming Fang. Make Identity Unextractable yet Perceptible: Synthesis-Based Privacy Protection for Subject Faces in Photos. *arXiv*, 2025. \[[code](https://github.com/daizigege/PerceptFace)\], \[[API](https://huggingface.co/spaces/daizigege/PerceptFace)\], \[[TL;DR](https://zhuanlan.zhihu.com/p/1956416753782482926)\]
 
-[TBIOM`25] <span class="me">Tao Wang</span>, Yushu Zhang\*, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua. Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection. *IEEE Trans. Biometr., Behav., Identity Sci.*, 2025, 7(2): 170-181. JCR Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
+[2] <span class="me">Tao Wang</span>, Yushu Zhang\*, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua. Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection. *IEEE Trans. Biometr., Behav., Identity Sci.*, 2025, 7(2): 170-181. JCR Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
 
-[TIFS`25] <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication. *IEEE Trans. Inf. Forensics Secur.*, 2025, 20: 2564-2576. <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
+[3] <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication. *IEEE Trans. Inf. Forensics Secur.*, 2025, 20: 2564-2576. <span class="me">CCF A</span>, JCR Q1,  \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
 
-[MM`24] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng. Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition. *ACM Int. Conf. Multimedia*, 2024: 10268-10276. <span class="me">CCF A</span>, \[[code](https://github.com/daizigege/CanFG)\]
+[4] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng. Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition. *ACM Int. Conf. Multimedia*, 2024: 10268-10276. <span class="me">CCF A</span>, \[[code](https://github.com/daizigege/CanFG)\]
 
-[CSUR`24] <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng. Security and Privacy on Generative Data in AIGC: A Survey. *ACM Comput. Surv.*, 2024, 57(4): 1-34. <span class="me">IF 28</span>, JCR Q1, 🏆<span class="me">  ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
+[5] <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng. Security and Privacy on Generative Data in AIGC: A Survey. *ACM Comput. Surv.*, 2024, 57(4): 1-34. <span class="me">IF 28</span>, JCR Q1, 🏆<span class="me">  ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
-[TDSC`25] Wenying Wen, Zhouxin Wu, Yushu Zhang\*, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1
+[6] Wenying Wen, Zhouxin Wu, Yushu Zhang\*, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1
 
-[TPAMI`25] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1
+[7] Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1
 
-[TDSC`25] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1
+[8] Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1
 
-[MM`24]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+[9]  Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
-[TIFS`23]  Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+[10]  Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 
 
