@@ -50,7 +50,7 @@
 First Author
 </blockquote> -->
 
-[arXiv`25] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Kun Xu, Lin Yuan, Wenying Wen, and Yuming Fang. Make Identity Unextractable yet Perceptible: Synthesis-Based Privacy Protection for Subject Faces in Photos. *arXiv*, 2025. \[[code](https://github.com/daizigege/PerceptFace)\], \[[API](https://huggingface.co/spaces/daizigege/PerceptFace)\], \[[TL;DR](https://zhuanlan.zhihu.com/p/1956416753782482926)\]
+[arXiv'25] <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Kun Xu, Lin Yuan, Wenying Wen, and Yuming Fang. Make Identity Unextractable yet Perceptible: Synthesis-Based Privacy Protection for Subject Faces in Photos. *arXiv*, 2025. \[[code](https://github.com/daizigege/PerceptFace)\], \[[API](https://huggingface.co/spaces/daizigege/PerceptFace)\], \[[TL;DR](https://zhuanlan.zhihu.com/p/1956416753782482926)\]
 
 [TBIOM`25] <span class="me">Tao Wang</span>, Yushu Zhang\*, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua. Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection. *IEEE Trans. Biometr., Behav., Identity Sci.*, 2025, 7(2): 170-181. JCR Q2, \[[code](https://github.com/daizigege/Identity_hider)\] 
 
