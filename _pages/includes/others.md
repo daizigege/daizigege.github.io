@@ -18,7 +18,7 @@
     <img src="https://daizigege.github.io/images/3.JPG" style="width: 20%; border-radius: 5px;">
   <img src="https://daizigege.github.io/images/1.JPG"style="width: 20%; border-radius: 5px;">
     <img src="https://daizigege.github.io/images/2.JPG"  style="width: 20%; border-radius: 5px;">
-     <img src="https://daizigege.github.io/images/4.JPG" style="width: 30%; border-radius: 5px;">
+
 </div>
 
 *Capturing moments during my visit. Photo by Liyu Xu.*
