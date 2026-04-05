@@ -24,19 +24,12 @@
   <img src="https://daizigege.github.io/images/3.JPG" style="width: 21%; border-radius: 5px; object-fit: contain;">
   <img src="https://daizigege.github.io/images/1.JPG" style="width: 21%; border-radius: 5px; object-fit: contain;">
   <img src="https://daizigege.github.io/images/2.JPG" style="width: 21%; border-radius: 5px; object-fit: contain;">
-  <img src="https://daizigege.github.io/images/4.jpg" style="width: 31.5%; border-radius: 5px; object-fit: contain;">
+  <!-- <img src="https://daizigege.github.io/images/4.jpg" style="width: 31.5%; border-radius: 5px; object-fit: contain;"> -->
 </div>
 
 <p style="text-align: center; margin-top: 10px; font-size: 0.9em; color: #666;">
   <i>Capturing moments during my visit. Photo by Liyu Xu.</i>
 </p>
-
-
-
-*Capturing moments during my visit. Photo by Liyu Xu.*
-<!-- <p style="text-align: center; margin-top: 10px; font-size: 0.9em; color: #666;">
-  <i>Capturing moments during my visit. Photo by Liyu Xu.</i>
-</p> -->
 
 
 
