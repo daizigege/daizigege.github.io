@@ -14,14 +14,13 @@
 
 
 # Moments
- <div style="display: flex; justify-content: flex-start; gap: 2px;">
-    <img src="https://daizigege.github.io/images/3.JPG" style="width: 20%; border-radius: 5px;">
-    <img src="https://daizigege.github.io/images/1.JPG"style="width: 20%; border-radius: 5px;">
-    <img src="https://daizigege.github.io/images/2.JPG"  style="width: 20%; border-radius: 5px;">
-</div> 
+<div style="display: flex; justify-content: flex-start; gap: 2px;">
+  <img src="https://daizigege.github.io/images/3.JPG" style="width: 20%; border-radius: 5px 0 0 5px; object-fit: cover;">
+  <img src="https://daizigege.github.io/images/1.JPG" style="width: 20%; object-fit: cover;">
+  <img src="https://daizigege.github.io/images/2.JPG" style="width: 20%; border-radius: 0 5px 5px 0; object-fit: cover;">
+</div>
 
 <p style="text-align: center; margin-top: 10px; font-size: 0.9em; color: #666;">
   <i>Capturing moments during my visit. Photo by Liyu Xu.</i>
-</p> 
-
+</p>
 
