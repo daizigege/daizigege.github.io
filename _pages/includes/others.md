@@ -13,6 +13,15 @@
 
 
 
+# Moments
+<div style="display: flex; justify-content: space-between;">
+  <img src="milan_life1.jpg" width="32%" style="border-radius: 5px;">
+</div>
+
+*Capturing some beautiful moments during my visiting at University of Milan.*
+
+
+
 
 
 
