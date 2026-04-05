@@ -9,7 +9,7 @@
 # Services
 - Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering; IEEE Transactions on Dependable and Secure Computing; IEEE Transactions on Circuits and Systems for Video Technology; IEEE Transactions on Network Science and Engineering; IEEE Transactions on Biometrics, Behavior, and Identity Science; ACM Transactions on Multimedia Computing Communications and Applications; Knowledge-Based Systems; Engineering Applications of Artificial Intelligence; Expert Systems with Applications;  Information Sciences; Neural Networks; International Journal of Information Security
 - Conference Reviewer: ICLR, SIGKDD, ACM MM
-- Membership: ACM Emerging Interest Groups EIG on Trustworthy and Responsible Systems Membership
+- Membership: ACM Emerging Interest Groups EIG on Trustworthy and Responsible Systems Membership; Chinese Society of Image and Graphics  Membership
 
 
 
