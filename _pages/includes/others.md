@@ -20,7 +20,7 @@
 
 </div>
 
-*Capturing moments at the University of Milan. Photo by Liyu Xu.*
+*Capturing moments during my visit. Photo by Liyu Xu.*
 
 
 
