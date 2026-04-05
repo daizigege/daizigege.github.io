@@ -14,7 +14,7 @@
 
 
 # Moments
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: flex-start; gap: 2px;">
   <img src="https://daizigege.github.io/images/1.JPG" width="200px" style="border-radius: 5px;">
     <img src="https://daizigege.github.io/images/2.JPG" width="200px" style="border-radius: 5px;">
      <img src="https://daizigege.github.io/images/3.JPG" width="200px" style="border-radius: 5px;">
