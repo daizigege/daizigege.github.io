@@ -16,5 +16,7 @@ Vision-Language Models
   }
 </style>
 
-<span class="imp"> I welcome opportunities for collaboration. I am expected to complete my Ph.D. in April 2027 and am currently seeking overseas postdoctoral positions.  </span>
+I welcome opportunities for collaboration at the intersection of privacy and interdisciplinary fields like sociology, management, and law.
+
+<span class="imp">I am expected to complete my Ph.D. in April 2027 and am currently seeking overseas postdoctoral positions.  </span>
 
