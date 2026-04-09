@@ -60,7 +60,7 @@ First Author
 
 3. <span class="me">Tao Wang</span>, Yushu Zhang\*, Shuren Qi, Ruoyu Zhao, Zhihua Xia, and Jian Weng. Security and Privacy on Generative Data in AIGC: A Survey. *ACM Comput. Surv.*, 2024, 57(4): 1-34. <span class="me">IF 28</span>, JCR Q1, 🏆<span class="me">  ESI Highly Cited Paper</span>,  \[[reading list](https://github.com/Zoky-2020/Security_and_Privacy_in_AIGC)\]
 
-3. Kun Xu, Wenying Wen, Shuren Qi, <span class="me">Tao Wang</span>, Yushu Zhang*, Yuming Fang. Detecting Malicious Concepts Without Image Generation in AI-Generated Content (AIGC).  *IEEE Trans. Dependable Secure Comput.*, 2026. <span class="me">CCF A</span>, JCR Q1
+3. Kun Xu, Wenying Wen, Shuren Qi, <span class="me">Tao Wang</span>, Yushu Zhang\*, Yuming Fang. Detecting Malicious Concepts Without Image Generation in AI-Generated Content (AIGC).  *IEEE Trans. Dependable Secure Comput.*, 2026. <span class="me">CCF A</span>, JCR Q1
 
 
 3. Wenying Wen, Zhouxin Wu, Yushu Zhang\*, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1
