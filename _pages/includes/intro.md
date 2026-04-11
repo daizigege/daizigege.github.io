@@ -17,5 +17,5 @@ Email:  wangtao21@nuaa.edu.cn; taow1776@gmail.com.
   }
 </style>
 
-<span class="imp">I am expected to complete my Ph.D. in April 2027 and am currently seeking overseas postdoctoral positions.  </span>
+<span class="imp">I am expected to complete my Ph.D. in December 2026 and am currently seeking overseas postdoctoral positions.  </span>
 
