@@ -9,7 +9,7 @@
 
 <div class="scrollable">
   <ul>  
-     <li><strong>2026.04.01</strong>:  A speech on AI privacy at   [MILAN0DAY](https://www.linkedin.com/posts/milan0day-2026-cybersecurity-conference-share-7462428001469652992-i2Ny?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGOg9egBTTN95AMgQpMEky5z3pohJsYeKT0). </li>
+     <li><strong>2026.05.22</strong>:  A speech on AI privacy at   [MILAN0DAY](https://www.linkedin.com). </li>
      <li><strong>2026.04.01</strong>:  A recent work on safeguarding implicit visual privacy is submitted for peer review. </li>
     <li><strong>2025.12.15</strong>:  I am honored to be selected for the  Doctoral Student Program of the Young Sci-Tech Talents Cultivation Project, CAST </li>
         <li><strong>2025.10.17</strong>: Seminar "Vision Access Control In Facial Identity Protection" at SPDP Lab and IEBI Lab [<a href="https://daizigege.github.io/pdf/Vision_Access_Control_In_Facial_Identity_Protection.pdf">slides</a>]  </li>
