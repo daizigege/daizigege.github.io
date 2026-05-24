@@ -20,6 +20,7 @@
   <img src="https://daizigege.github.io/images/2.JPG" style="width: 15%; border-radius: 0 5px 5px 0; object-fit: cover;">
   <img src="https://daizigege.github.io/images/4.jpg" style="width: 15%; border-radius: 0 5px 5px 0; object-fit: cover;">
    <img src="https://daizigege.github.io/images/5.jpg" style="width: 15%; border-radius: 0 5px 5px 0; object-fit: cover;">
+     <img src="https://daizigege.github.io/images/6.jpg" style="width: 15%; border-radius: 0 5px 5px 0; object-fit: cover;">
 </div>
 
 <p style="text-align: left; margin-top: 10px; font-size: 0.9em; color: #666;">
