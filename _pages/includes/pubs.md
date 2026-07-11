@@ -63,7 +63,7 @@ First Author
 Co-Author
 </blockquote>
 
-1. Kun Xu, Yushu Zhang, Tao Wang, Shuren Qi, Barbara Carminati, Elena Ferrari, Yuming Fang. Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models.  *ACM Int. Conf. Multimedia*, 2025. <span class="me">CCF A</span>
+1. Kun Xu, Yushu Zhang, Tao Wang, Shuren Qi, Barbara Carminati, Elena Ferrari, Yuming Fang. Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models.  *ACM Int. Conf. Multimedia*, 2026. <span class="me">CCF A</span>
 
 2. Kun Xu, Wenying Wen\*, Shuren Qi, <span class="me">Tao Wang</span>, Yushu Zhang, Yuming Fang. Detecting Malicious Concepts Without Image Generation in AI-Generated Content (AIGC).  *IEEE Trans. Dependable Secure Comput.*, 2026. <span class="me">CCF A</span>, JCR Q1, IF 6.8
 
