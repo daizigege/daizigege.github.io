@@ -61,7 +61,7 @@ Lead-Author
 
 6. Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1, IF 6.8
 
-7. Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, IF 8.7, Student Lead, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+7. Yushu Zhang, <span class="me">Tao Wang</span> (Student Lead), Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, IF 8.7,  \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 <blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 Co-Author
