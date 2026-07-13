@@ -53,7 +53,7 @@ Lead-Author
 
 2. <span class="me">Tao Wang</span>, Yushu Zhang\*, Zixuan Yang, Xiangli Xiao, Hua Zhang,  and Zhongyun Hua. Seeing is not Believing: An Identity Hider for Human Vision Privacy Protection. *IEEE Trans. Biometr., Behav., Identity Sci.*, 2025, 7(2): 170-181. JCR Q2, IF 4.4, \[[code](https://github.com/daizigege/Identity_hider)\] 
 
-3. <span class="me">Tao Wang</span>, Wenying Weng\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication. *IEEE Trans. Inf. Forensics Secur.*, 2025, 20: 2564-2576. <span class="me">CCF A</span>, JCR Q1, IF 8.7, \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
+3. <span class="me">Tao Wang</span>, Wenying Wen\*, Xiangli Xiao, Zhongyun Hua, Yushu Zhang, and Yuming Fang. Beyond Privacy: Generating Privacy-Preserving Faces Supporting Robust Image Authentication. *IEEE Trans. Inf. Forensics Secur.*, 2025, 20: 2564-2576. <span class="me">CCF A</span>, JCR Q1, IF 8.7, \[[code](https://github.com/daizigege/AIDPro)\], \[[TL;DR](https://mp.weixin.qq.com/s/E5unNbfSmwjxjBKK6rnZBg)\]
 
 4. <span class="me">Tao Wang</span>, Yushu Zhang\*, Xiangli Xiao, Lin Yuan, Zhihua Xia, and Jian Weng. Make Privacy Renewable! Generating Privacy-Preserving Faces Supporting Cancelable Biometric Recognition. *ACM Int. Conf. Multimedia*, 2024: 10268-10276. <span class="me">CCF A</span>, \[[code](https://github.com/daizigege/CanFG)\]
 
@@ -61,7 +61,7 @@ Lead-Author
 
 6. Yushu Zhang, Zixuan Yang, <span class="me">Tao Wang\*</span>, Zhongyun Hua, and Jian Weng. Tailor-made Face Privacy Protection via Class-wise Targeted Universal Adversarial Perturbations. *IEEE Trans. Dependable Secure Comput.*, 2025, 20(5): 5108-5120. <span class="me">CCF A</span>, JCR Q1, IF 6.8
 
-7. Yushu Zhang, <span class="me">Tao Wang</span> (Student Lead), Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, IF 8.7,  \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
+7. Yushu Zhang, <span class="me">Tao Wang</span>, Ruoyu Zhao\*, Wenying Wen, and Youwen Zhu. RAPP: Reversible Privacy Preservation for Various Face Attributes. *IEEE Trans. Inf. Forensics Secur.*, 2023, 18: 3074-3087. <span class="me">CCF A</span>, JCR Q1, IF 8.7, Student Lead, \[[TL;DR](https://mp.weixin.qq.com/s/jmSnVAUXVwjkvQ_aMV6WCQ)\]
 
 <blockquote style="font-size: 1em; color: black; background-color: #f0f8ff; padding: 10px;">
 Co-Author
