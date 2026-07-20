@@ -24,6 +24,6 @@
 </div>
 
 <p style="text-align: left; margin-top: 10px; font-size: 0.9em; color: #666;">
-  <i>Capturing moments during my visit. Photo by Liyu Xu.</i>
+  <i>Capturing moments during my visit. Photo by Yu God.</i>
 </p>
 
