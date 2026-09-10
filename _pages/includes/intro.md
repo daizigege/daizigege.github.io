@@ -1,9 +1,8 @@
 
 # About Me
+I am a third-year Ph.D. student at Nanjing University of Aeronautics and Astronautics (NUAA), supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/). I was previously a visiting scholar at the University of Milan, where I worked under the supervision of Prof. [Pierangela Samarati ](https://samarati.di.unimi.it/cv), an IEEE and ACM Fellow and one of the pioneers of k-anonymity. I welcome opportunities for collaboration at the intersection of privacy and interdisciplinary fields like sociology, management, and law.
 
-I am a  PhD at Nanjing University of Aeronautics and Astronautics, supervised by Prof. [Yushu Zhang](https://yushuzhang.cn/).  I am currently studying at the University of Milan as a visiting scholar, supervised by Prof. [Pierangela Samarati ](https://samarati.di.unimi.it/cv) (IEEE/ACM Fellow, the  originator of *k*-anonymity). I welcome opportunities for collaboration at the intersection of privacy and interdisciplinary fields like sociology, management, and law.
-
-Research Interests: AI Privacy, Computational Social Science, AI Ethics
+Research Interests: AI Privacy, Computational Social Science, Contextual Privacy, Privacy Evaluation 
 
 Email:  wangtao21@nuaa.edu.cn; taow1776@gmail.com.    
 
