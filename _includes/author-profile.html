@@ -17,14 +17,7 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-      <li>
-  <a href="{{ '/pdf/cv.pdf' | relative_url }}"
-     target="_blank"
-     rel="noopener noreferrer">
-    <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
-    CV (PDF)
-  </a>
-</li>
+
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
@@ -51,7 +44,14 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
-
+      <li>
+  <a href="{{ '/pdf/cv.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+    <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+    CV (PDF)
+  </a>
+</li>
       {% if author.wechat %}
         <li><i class="fab fa-fw fa-weixin"></i> {{ author.wechat }}</li>
       {% endif %}
