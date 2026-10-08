@@ -17,6 +17,14 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
+      <li>
+  <a href="{{ '/pdf/cv.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+    <i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>
+    CV (PDF)
+  </a>
+</li>
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
