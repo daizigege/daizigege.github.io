@@ -67,7 +67,7 @@ Lead-Author
 Co-Author
 </blockquote>
 
-1. Xuji Tu, Wenying Wen*, <span class="me">Tao Wang</span>, Zixuan Yang, Yushu Zhang. A Personalized Privacy Protection Service for Cloud-stored Portrait Albums. *IEEE Trans. Multimedia*. <span class="me">CCF A</span>, JCR Q1, IF 9.9
+1. Xuji Tu, Wenying Wen*, <span class="me">Tao Wang</span>, Zixuan Yang, Yushu Zhang. A Personalized Privacy Protection Service for Cloud-stored Portrait Albums. *IEEE Trans. Multimedia*, 2026. <span class="me">CCF A</span>, JCR Q1, IF 9.9
 
 2. Kun Xu, Yushu Zhang, <span class="me">Tao Wang</span>, Shuren Qi, Barbara Carminati, Elena Ferrari, Yuming Fang. Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models.  *ACM Int. Conf. Multimedia*, 2026. <span class="me">CCF A</span>
 
