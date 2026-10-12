@@ -67,16 +67,18 @@ Lead-Author
 Co-Author
 </blockquote>
 
-1. Kun Xu, Yushu Zhang, <span class="me">Tao Wang</span>, Shuren Qi, Barbara Carminati, Elena Ferrari, Yuming Fang. Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models.  *ACM Int. Conf. Multimedia*, 2026. <span class="me">CCF A</span>
+1. Xuji Tu, Wenying Wen*, <span class="me">Tao Wang</span>, Zixuan Yang, Yushu Zhang. A Personalized Privacy Protection Service for Cloud-stored Portrait Albums. *IEEE Trans. Multimedia*. <span class="me">CCF A</span>, JCR Q1, IF 9.9
 
-2. Kun Xu, Wenying Wen\*, Shuren Qi, <span class="me">Tao Wang</span>, Yushu Zhang, Yuming Fang. Detecting Malicious Concepts Without Image Generation in AI-Generated Content (AIGC).  *IEEE Trans. Dependable Secure Comput.*, 2026. <span class="me">CCF A</span>, JCR Q1, IF 6.8
+2. Kun Xu, Yushu Zhang, <span class="me">Tao Wang</span>, Shuren Qi, Barbara Carminati, Elena Ferrari, Yuming Fang. Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models.  *ACM Int. Conf. Multimedia*, 2026. <span class="me">CCF A</span>
+
+3. Kun Xu, Wenying Wen\*, Shuren Qi, <span class="me">Tao Wang</span>, Yushu Zhang, Yuming Fang. Detecting Malicious Concepts Without Image Generation in AI-Generated Content (AIGC).  *IEEE Trans. Dependable Secure Comput.*, 2026. <span class="me">CCF A</span>, JCR Q1, IF 6.8
 
 
-3. Wenying Wen, Zhouxin Wu, Yushu Zhang\*, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1, IF 6.8
+4. Wenying Wen, Zhouxin Wu, Yushu Zhang\*, <span class="me">Tao Wang</span>, Xiangli Xiao, and Yuming Fang. Medical Archive in an Image: Generating a High-Capacity Customizable Cover Image for Medical Privacy Protection.  *IEEE Trans. Dependable Secure Comput.*, 2025. <span class="me">CCF A</span>, JCR Q1, IF 6.8
 
-4. Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1, IF 20.4
+5. Yushu Zhang, Junhao Ji\*, <span class="me">Tao Wang</span>, Ruoyu Zhao, Wenying Wen, and Yong Xiang. Make Identity Indistinguishable: Utility-Preserving Face Dataset Publication with Provable Privacy Guarantees. *IEEE Trans. Pattern Anal. Mach. Intell.*, 2025, 48(1): 127-139. <span class="me">CCF A</span>, JCR Q1, IF 20.4
 
-5. Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
+6. Zixuan Yang, Yushu Zhang\*,  <span class="me">Tao Wang</span>, Zhongyun Hua, Zhihua Xia, and Jian Weng. Once-for-all: Efficient Visual Face Privacy Protection via Person-specific Veils. *ACM Int. Conf. Multimedia*, 2024: 7705-7713. <span class="me">CCF A</span>,  🏆<span class="me"> Honourable Mention Award</span>, \[[TL;DR](https://mp.weixin.qq.com/s/vMTjYSQK4rG8CpCrDdcXvQ)\]
 
 
 
