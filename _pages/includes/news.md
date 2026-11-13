@@ -9,7 +9,7 @@
 
 <div class="scrollable">
   <ul>  
-         <li><strong>2026.07.29</strong>:  A recent work on postable social photo privacy is submitted for peer review. </li>
+         <li><strong>2026.11.13</strong>: Our paper on implicit visual privacy is accepted by TMM. </li>
      <li><strong>2026.05.22</strong>:  A speech on AI privacy at  <a href="https://k1nd4sus.it/events/milan0day2026">MILAN0DAY</a>. </li>
 
     <li><strong>2025.12.15</strong>:  I am honored to be selected for the  Doctoral Student Program of the Young Sci-Tech Talents Cultivation Project, CAST </li>
